@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="8cB4i8QYPEQvwkoHTDkk">
-    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="557" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="366EZpJaWa0QLQHMeGkg-1" value="1. add helm repo&lt;div style=&quot;font-size: 16px;&quot;&gt;2. helm search repo list&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;3.&amp;nbsp;&amp;nbsp;helm install [NAME] [CHART] [flags]&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="160" y="30" width="280" height="150" as="geometry" />
+          <mxGeometry x="62" y="99" width="280" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
