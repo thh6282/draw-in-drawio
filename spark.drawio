@@ -40,8 +40,8 @@
         <mxCell id="on2fjkOhuh5MsmSwJ01i-5" value="Shuffle" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="342" y="2589" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5iX_BvTpzBCpD1MbJOr4-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Inferschema&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;option(&quot;samplingRatio&quot;:0.1)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="77" y="2722" width="60" height="30" as="geometry" />
+        <mxCell id="5iX_BvTpzBCpD1MbJOr4-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Inferschema&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;option(&quot;samplingRatio&quot;:0.1)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="123" y="2721" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
